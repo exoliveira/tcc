@@ -1,0 +1,20 @@
+{
+	"SettingsVersion": 1.2,
+	"SimMode": "Multirotor",
+	"Vehicles": {
+		"PX4": {
+			"VehicleType": "PX4Multirotor",
+			"LocalHostIp": "10.0.75.1",
+			"UdpIp": "172.18.0.2",
+			"SitlIp": "172.18.0.2",
+			"X":4, "Y": 0, "Z": -2,
+			"UseSerial": false
+		},
+		"PX42": {
+			"VehicleType": "PX4Multirotor",
+			"X":0, "Y": 0, "Z": -2,
+			"UseSerial": false
+		}
+
+	}
+}
